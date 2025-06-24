@@ -36,8 +36,9 @@ https://app.nexus.xyz/
 
 ## --> One-click-deployment 
 1- Register in [databasemart](https://www.databasemart.com/?aff_id=fd547bb607b1462d99962f0763ee52d8)
-or buy vps via .[Contabo].
-.(https://contabo.com/en/vps/).
+
+or buy vps via [Contabo]
+(https://contabo.com/en/vps/)
 
 2- Buy a ready-to-go Nexus node
 
